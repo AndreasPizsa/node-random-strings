@@ -1,4 +1,4 @@
-# random-strings 0.0.1
+# random-strings 0.0.1 [![Build Status](https://travis-ci.org/AndreasPizsa/node-random-strings.png?branch=master)](https://travis-ci.org/AndreasPizsa/node-random-strings)
 ## Fast, beautiful, unique random Strings for node
 
 - __Fast.__ Integers only, no floating point operations. <3 your CPU!
