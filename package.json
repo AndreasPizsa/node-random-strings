@@ -1,0 +1,35 @@
+{
+  "name": "random-strings",
+  "version": "0.0.1",
+  "description": "Fast, beautiful, unique random Strings for node.",
+  "main": "dist/random-strings.js",
+  "scripts": {
+    "test": "vows --Spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreaspizsa/node-random-strings"
+  },
+  "keywords": [
+    "random string",
+    "random",
+    "string",
+    "strings",
+    "characters",
+    "async",
+    "token",
+    "node"
+  ],
+  "author": "Andreas Pizsa (http://github.com/AndreasPizsa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreaspizsa/node-random-strings/issues"
+  },
+  "devDependencies": {
+    "vows": "~0.7.0",
+    "should": "~2.1.1",
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.2.1",
+    "grunt-contrib-coffee": "~0.8.0"
+  }
+}
