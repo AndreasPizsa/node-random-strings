@@ -26,11 +26,11 @@
     "url": "https://github.com/andreaspizsa/node-random-strings/issues"
   },
   "devDependencies": {
-    "vows": "~0.7.0",
-    "coffee-script": "1.2.0",
-    "should": "~2.1.1",
-    "grunt": "~0.4.2",
-    "load-grunt-tasks": "~0.2.1",
-    "grunt-contrib-coffee": "~0.8.0"
+    "vows": "~0.8.2",
+    "coffee-script": "1.12.7",
+    "should": "~13.2.3",
+    "grunt": "~1.0.3",
+    "load-grunt-tasks": "~4.0.0",
+    "grunt-contrib-coffee": "~2.0.0"
   }
 }
