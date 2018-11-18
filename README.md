@@ -1,4 +1,4 @@
-# random-strings 0.0.1 [![Build Status](https://travis-ci.org/AndreasPizsa/node-random-strings.png?branch=master)](https://travis-ci.org/AndreasPizsa/node-random-strings)
+# random-strings 0.0.1 [![Build Status](https://travis-ci.org/AndreasPizsa/node-random-strings.png?branch=master)](https://travis-ci.org/AndreasPizsa/node-random-strings) [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/node-random-strings.svg)](https://greenkeeper.io/)
 ## Fast, beautiful, unique random Strings for node
 
 - __Fast.__ Integers only, no floating point operations. <3 your CPU!
